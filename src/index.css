@@ -3,7 +3,7 @@ background-color: antiquewhite;
 box-shadow: 0px 8px 24px;
 }
 
-.accordionL>* {
+.accordion-List>* {
     padding:  0.75rem;
 }
 

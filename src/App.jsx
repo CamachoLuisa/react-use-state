@@ -6,10 +6,9 @@ import Accordion from './assets/components/Accordion'
 function App() {
 
   return (
-    <>
-      <Accordion/>
-      <AccordionList/>
-    </>
+    <div className='container'>
+      <AccordionList />
+    </div>
   )
 }
 

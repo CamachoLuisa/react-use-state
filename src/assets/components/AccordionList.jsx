@@ -28,10 +28,6 @@ export default function AccordionList() {
         },
     ];
 
-    if (faqs.lenght === 0) {
-        return <h2> non ci sono</h2>
-    }
-
     return (
         <div className="accordion-list">
             {faqs.map((item, index) => (
