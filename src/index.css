@@ -1,0 +1,17 @@
+.accordionL {
+background-color: antiquewhite;
+box-shadow: 0px 8px 24px;
+}
+
+.accordionL>* {
+    padding:  0.75rem;
+}
+
+.accordion_title {
+    background-color: aliceblue;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
